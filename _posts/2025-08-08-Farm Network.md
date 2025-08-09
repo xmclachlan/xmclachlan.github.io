@@ -1,6 +1,6 @@
 ---
 title: Farm Network
-date: 2025-08-07 2:00:00
+date: 2025-08-08 13:30:00 +1000
 categories: [networking]
 tags: [ubiquiti,farm,networking]
 ---
@@ -41,6 +41,14 @@ Once I put in the UniFi U6-Pro AP, they were also super happy, they had good WiF
 
 ### Stage 2
 
-This was going to be about testing the modules I had planned.
-
 So this stage was to test that the modules worked, and that I could to UISP links between modules.
+
+So I plan to setup a temporary module close to the house, to test the connection between links, and the setup of modules. Test out all the interfaces, setup solar and batteries.
+
+### Stage 3
+
+Put in the central link, and ensure the PtP works.
+
+### Stage 4
+
+Install the modules, one by one. Starting with the Turnip Paddock gate and then working through the rest of them.
